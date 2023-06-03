@@ -1,6 +1,6 @@
 {
-      "name": "NOBITA X ROBOT",
-      "description": "star Robo is a group management bot.",
+      "name": "RADHA X ROBOT",
+      "description": "RADHA Robo is a group management bot.",
       "logo": "https://telegra.ph/file/26b5ac4684af8c68ebdce.jpg",
       "keywords": [
          "telegram",
@@ -8,7 +8,7 @@
          "group",
          "manager"
       ],   
-   "repository": "https://github.com/jaisingh007/NOBITA-X_ROBOT",
+   "repository": "https://github.com/radhak8/NOBITA-X_ROBOT",
    "stack": "heroku-22",
    "addons": [
       {
@@ -65,7 +65,7 @@
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit.",
          "required": true,
-         "value": "nobita_x_support"
+         "value": "RadhaX2Support"
       },
       "TOKEN": {
          "description": "Get bot token from @BotFather on TG",
