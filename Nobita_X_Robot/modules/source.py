@@ -20,7 +20,7 @@ async def repo(client, message):
 
 ╔═════ஜ۩۞۩ஜ════╗
 
- 🌹️𝗠𝗔𝗗𝗘 𝗕𝗬 [ησвι](tg://user?id={OWNER_ID})🌹
+ 🌹️𝗠𝗔𝗗𝗘 𝗕𝗬 [rana](tg://user?id={OWNER_ID})🌹
   
 ╚═════ஜ۩۞۩ஜ════╝
 
@@ -30,11 +30,11 @@ async def repo(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        "•✨ᴏᴡɴᴇʀ✨",f"tg://user?id={OWNER_ID}"
+                        "•✨Oᴡɴᴇʀ✨",f"tg://user?id={OWNER_ID}"
                     ),
                     InlineKeyboardButton(
-                        "✨ʀᴇᴘᴏ✨",
-                        url="https://github.com/jaisingh007i/NOBITA-X_ROBOT",
+                        "✨Rᴇᴘᴏ✨",
+                        url="https://te.legra.ph/file/5fa7b4d86dcd5720ef30c.mp4",
                     ),
                 ]
             ]
