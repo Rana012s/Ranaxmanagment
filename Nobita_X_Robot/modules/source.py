@@ -9,7 +9,7 @@ from telethon import __version__ as s
 from Nobita_X_Robot import OWNER_ID, dispatcher
 from Nobita_X_Robot import pbot as client
 
-Star = "https://telegra.ph/file/26b5ac4684af8c68ebdce.jpg"
+Star = "https://te.legra.ph/file/2a91b7f86f9e41e03de86.jpg"
 
 
 @client.on_message(filters.command(["repo", "source"]))
@@ -20,7 +20,7 @@ async def repo(client, message):
 
 ╔═════ஜ۩۞۩ஜ════╗
 
- 🌹️𝗠𝗔𝗗𝗘 𝗕𝗬 [rana](tg://user?id={OWNER_ID})🌹
+ 🌹️𝗠𝗔𝗗𝗘 𝗕𝗬 [Rana](tg://user?id={OWNER_ID})🌹
   
 ╚═════ஜ۩۞۩ஜ════╝
 
@@ -30,11 +30,11 @@ async def repo(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        "•✨Oᴡɴᴇʀ✨",f"tg://user?id={OWNER_ID}"
+                        "•✨ᴏᴡɴᴇʀ✨",f"tg://user?id={OWNER_ID}"
                     ),
                     InlineKeyboardButton(
-                        "✨Rᴇᴘᴏ✨",
-                        url="https://te.legra.ph/file/5fa7b4d86dcd5720ef30c.mp4",
+                        "✨ʀᴇᴘᴏ✨",
+                        url="https://te.legra.ph/file/d1ac5371d520226e87afa.mp4",
                     ),
                 ]
             ]
